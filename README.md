@@ -1,2 +1,0 @@
-# PhpShop
-TPI - IT Shop
